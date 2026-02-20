@@ -188,7 +188,7 @@ const story_12 =
     Mary was also a clever businesswoman who partnered with other actors.^
     She helped form a major film distribution company called United Artists.^
     Another noteworthy member of United Artists was comedian Charlie Chaplin.^
-    Together^ they made lots of popular movies at the end of the silent era.^
+    Together they made lots of popular movies at the end of the silent era.^
     Mary Pickford became less popular once talking pictures came along.^
     She decided she wanted to make a major change in her career and her life.^
     A hairdresser cut off the very long blonde hair that audiences loved so much.^
